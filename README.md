@@ -1,4 +1,4 @@
-Archived, not sure why I even made this [pm2](https://github.com/Unitech/pm2?tab=readme-ov-file) exists
+Archived, not sure why I even made this (things like [pm2](https://github.com/Unitech/pm2?tab=readme-ov-file) exist)
 
 ---
 
